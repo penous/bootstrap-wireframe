@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap-wireframe",
+  "version": "1.0.0",
+  "description": "Bootstrap wireframe challenge",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Dirinck",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  }
+}
