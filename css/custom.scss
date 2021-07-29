@@ -1,7 +1,13 @@
-$primary: #4e5340;
-$secondary: #697268;
-$success: #d8d8f6;
-$body-color: #ede8d6;
+$primary: #696f5a;
+$secondary: #5b635a;
+$success: #dce1d0;
+$body-color: #eeebe2;
+$light: #eeebe2;
 
 // import bootstrap
 @import "../node_modules/bootstrap/scss/bootstrap";
+
+// custom css
+section {
+  border-top: 0.5px solid lightgray;
+}
